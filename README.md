@@ -4,7 +4,7 @@
 - I have discord, @quixaq
 - I can make discord bots in nextcord and discord.js
 - I make 4fun projects like the quixaq/light2
-- I can also make websites using HTML5
+- I can also make websites using NextJS
 
 <!---
 quixaq/quixaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
